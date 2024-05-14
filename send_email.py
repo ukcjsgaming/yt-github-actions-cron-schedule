@@ -3,7 +3,7 @@ import os
 
 
 port = 465
-smtp_server = "smtp.gmail.com"
+smtp_server = "smtp.sentfromiphone.co.uk"
 USERNAME = os.environ.get('USER_EMAIL')
 PASSWORD = os.environ.get('USER_PASSWORD')
 message = """\
